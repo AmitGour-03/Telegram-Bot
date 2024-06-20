@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Telegram-Bot project\venv1
+venv1
+.env 
+
+# in order to ensure that this will not push in Github so that 
+# our secret api keys will be safe whether keys from openai or some bot generated
+
+
