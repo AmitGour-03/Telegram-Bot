@@ -1,1 +1,1 @@
-ChatGPT based Telegram-Bot
+ChatGPT based Telegram-Bot: A Virtual Assistant
